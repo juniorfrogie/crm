@@ -1,0 +1,16 @@
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\CRM.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\CRM.pdb
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\obj\Debug\CRM.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\voneat.pen\Documents\Visual Studio 2012\Projects\CRM\CRM\bin\AjaxControlToolkit.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.Core.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Quartz.dll
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.pdb
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.xml
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.Core.pdb
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Common.Logging.Core.xml
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Quartz.pdb
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\Quartz.xml
+C:\Users\voneat.pen\documents\visual studio 2012\Projects\CRM\CRM\bin\EmailValidator.dll
